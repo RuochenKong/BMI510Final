@@ -1,0 +1,11 @@
+Package: bmi510
+Type: Package
+Title: Basic statistical functions
+Version: 0.1.0
+Author: Ruochen Kong
+Maintainer: The package maintainer <ruochen.kong@emory.edu>
+Description: Basic statistical functions, including sampling, replication, calculation of log likelihood, and evaluation metrics.
+License: NA
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
