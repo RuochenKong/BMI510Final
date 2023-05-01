@@ -27,3 +27,7 @@ Implementations of 20 functions could be used for statistical analysis.
 <pre>
 git clone https://github.com/RuochenKong/BMI510Final.git
 </pre>
+In `R` script, add
+```{R}
+source("path/to/BMI510Final/R/bmi510.R")
+```
